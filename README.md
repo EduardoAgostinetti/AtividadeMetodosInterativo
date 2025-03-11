@@ -67,9 +67,10 @@ Ao executar, o programa pode exibir algo como:
 ```
 Solução encontrada após 3 iterações.
 Solução:
-x[0] = 0.54021
-x[1] = -0.72058
-x[2] = -0.75032
+x[0] = 1.0862222222222222
+x[1] = -0.8985185185185186
+x[2] = 0.3837037037037036
+
 ```
 
 ---
