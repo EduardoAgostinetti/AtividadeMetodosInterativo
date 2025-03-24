@@ -50,7 +50,7 @@ O código já contém um exemplo de sistema linear:
  double[][] A = {
      {5, 2, 2},
      {1, 3, 1},
-     {0, 8, 6}
+     {0, 6, 8}
  };
 
 // Vetor de termos independentes

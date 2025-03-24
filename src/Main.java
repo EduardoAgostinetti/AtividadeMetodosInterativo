@@ -43,7 +43,7 @@ public class Main {
         double[][] A = {
                 {5, 2, 2},
                 {1, 3, 1},
-                {0, 8, 6}
+                {0, 6, 8}
         };
         double[] b = {3, -2, -6};
         double[] x = {0.6, -0.7, -0.75};  // Chute inicial
